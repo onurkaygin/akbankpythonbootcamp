@@ -1,4 +1,4 @@
-## Pizza ORdering System
+## Pizza Ordering System
 
 ### English
 
@@ -16,6 +16,8 @@ We defined a Pizza superclass and subclass to create the built-in information fo
 7. We defined menu selections, data entry, error messages, and user notifications.
 8. When this loop is completed, we ensured the creation of the Orders_Database.csv file defined in the library file, and the data is saved in a regular manner.
 
+Team Members: Abdullah Onur Kaygın, Mehmet Şensoy(https://github.com/shadzium), Burak Berker Başergün(https://github.com/berkerbasrgn), Ali Seren(https://github.com/AliSeren), Esra Meral(https://github.com/Esrameral98)
+
 ### Turkish
 
 Global AI Hub ve Akbank işbirliğinde Python Bootcamp .Bu program, bir müşterinin pizza sipariş hizmetinden yararlanmasına almasına 
@@ -32,4 +34,6 @@ Bunun için:
 6. Daha rahat bir şekilde seçim sağlanması için menüleri ikiye ayırdık .
 7. Menü seçimleri, veri girişleri, hata mesajları ve kullanıcı bilgilendirmelerini tanımladık.
 8. Bu döngü tamamen bittiğinde kütüphane dosyası içerisinde tanımlanan Orders_Datase.csv dosyasını oluşturulmasını ve bu verilerin düzenli bir şekilde kaydedilmesini sağladık.
+
+Grup Üyeleri: Abdullah Onur Kaygın, Mehmet Şensoy(https://github.com/shadzium), Burak Berker Başergün(https://github.com/berkerbasrgn), Ali Seren(https://github.com/AliSeren), Esra Meral(https://github.com/Esrameral98)
  
