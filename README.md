@@ -16,7 +16,12 @@ We defined a Pizza superclass and subclass to create the built-in information fo
 7. We defined menu selections, data entry, error messages, and user notifications.
 8. When this loop is completed, we ensured the creation of the Orders_Database.csv file defined in the library file, and the data is saved in a regular manner.
 
-Team Members: Abdullah Onur Kaygın, Mehmet Şensoy(https://github.com/shadzium), Burak Berker Başergün(https://github.com/berkerbasrgn), Ali Seren(https://github.com/AliSeren), Esra Meral(https://github.com/Esrameral98)
+Team Members: 
+Abdullah Onur Kaygın https://github.com/onurkaygin - onurkaygin@gmail.com
+Mehmet Şensoy - https://github.com/shadzium - shadzium@gmail.com
+Burak Berker Başergün - https://github.com/berkerbasrgn - bberkerbasergun@gmail.com
+Ali Seren - https://github.com/AliSeren - aliseren86@gmail.com
+Esra Meral - https://github.com/Esrameral98 - esrameral98@gmail.com
 
 ### Turkish
 
@@ -35,5 +40,10 @@ Bunun için:
 7. Menü seçimleri, veri girişleri, hata mesajları ve kullanıcı bilgilendirmelerini tanımladık.
 8. Bu döngü tamamen bittiğinde kütüphane dosyası içerisinde tanımlanan Orders_Datase.csv dosyasını oluşturulmasını ve bu verilerin düzenli bir şekilde kaydedilmesini sağladık.
 
-Grup Üyeleri: Abdullah Onur Kaygın, Mehmet Şensoy(https://github.com/shadzium), Burak Berker Başergün(https://github.com/berkerbasrgn), Ali Seren(https://github.com/AliSeren), Esra Meral(https://github.com/Esrameral98)
+Grup Üyeleri:
+Abdullah Onur Kaygın https://github.com/onurkaygin - onurkaygin@gmail.com
+Mehmet Şensoy - https://github.com/shadzium - shadzium@gmail.com
+Burak Berker Başergün - https://github.com/berkerbasrgn - bberkerbasergun@gmail.com
+Ali Seren - https://github.com/AliSeren - aliseren86@gmail.com
+Esra Meral - https://github.com/Esrameral98 - esrameral98@gmail.com
  
