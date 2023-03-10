@@ -1,0 +1,10 @@
+11: Zeytin -----------------> 7 Turkish Liras
+12: Mantar -----------------> 8 Turkish Liras
+13: Keci Peyniri -----------> 10 Turkish Liras
+14: Et ---------------------> 15 Turkish Liras
+15: Sogan ------------------> 10 Turkish Liras
+16: Misir ------------------> 7 Turkish Liras
+17: Pastirma ---------------> 20 Turkish Liras
+18: Biftek -----------------> 20 Turkish Liras
+19: Domates ----------------> 7 Turkish Liras
+20: Ton Baligi -------------> 15 Turkish Liras

@@ -1,0 +1,10 @@
+1: Klasik Pizza ------------> 100 Turkish Liras
+2: Margarita ---------------> 110 Turkish Liras
+3: Turkish Pizza -----------> 150 Turkish Liras
+4: Sade Pizza --------------> 90 Turkish Liras
+5: New York ----------------> 160 Turkish Liras
+6: Italiano ----------------> 160 Turkish Liras
+7: Callypso ----------------> 170 Turkish Liras
+8: Konyalim ----------------> 180 Turkish Liras
+9: Dort Peynirli -----------> 180 Turkish Liras
+10: Ocakbasi ---------------> 180 Turkish Liras
