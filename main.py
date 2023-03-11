@@ -119,7 +119,7 @@ while(True):
         ccardpass = input("Şifreyi tekrar giriz: ")
 
 
-ccardcvc = input("CVC Kodunuzu Giriniz: ")
+ccardcvc = input("\nCVC Kodunuzu Giriniz: ")
 while(True):
     if pclss.cvcvalidation(ccardcvc):
         break
