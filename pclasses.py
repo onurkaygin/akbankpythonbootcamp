@@ -34,7 +34,7 @@ class SadePizza(Pizza):
     def __init__(self):
         super().__init__("Sade Pizza", 90.0)
 
-class Newyork(Pizza): ##############
+class Newyork(Pizza): 
     def __init__(self):
         super().__init__("New York Pizza", 160.0)
 
